@@ -10,6 +10,13 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# random stuff
+.project
+gc.properties
+last-build.bin
+fileHashes.lock
+org.eclipse.buildship.core.prefs
+
 # Package Files #
 *.jar
 *.war
